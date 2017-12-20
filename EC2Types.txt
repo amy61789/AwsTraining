@@ -8,7 +8,7 @@ R4: Memory Optimized - Memory INtensive Apps/DBs
 M4: General Purpose - Application servers
 C4: Compute Optimized - CPU intensive apps/DBs
 G2: Graphics Intensive - Video Encoding/3D Application Streaming
-I2: High SPeed Storage - NoSQL, DBs, Data Warehousing etc
+I2: High Speed Storage - NoSQL, DBs, Data Warehousing etc
 F1: Field Programmable Gate Array - Hardware Acceleration for your code
 T2: Lowest Cost, General Purpose - Web servers/Small DBs
 P2: Graphics/General Purpose GPU - Machine Learning, BitCoin Mining Etc
