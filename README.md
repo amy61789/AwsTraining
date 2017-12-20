@@ -5,3 +5,5 @@ Notes documented so far:
 -Identity Access Management (IAM)
 <br>
 -Elastic Cloud Compute (EC2)
+<br>
+-EC2 Instance Types
